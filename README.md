@@ -1,4 +1,4 @@
-Agentic Chatbot
+**Agentic Chatbot**
 
 An intelligent chatbot application designed to process and respond to user queries effectively.
 

@@ -28,6 +28,9 @@ class Config:
         value = self.defaults.get("GROQ_MODEL_OPTIONS", "")
         return [v.strip() for v in value.split(",") if v.strip()]
 
+    @property
+    def AI_NEWS_OPTIONS(self):
+        return self.defaults.get("AI_NEWS_OPTIONS", "None").split(",")
     
             
     

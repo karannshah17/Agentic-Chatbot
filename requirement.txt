@@ -6,3 +6,4 @@ ipykernel
 python-dotenv
 langchain-groq
 langgraph-cli[inmem]
+tavily-python

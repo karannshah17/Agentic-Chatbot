@@ -14,13 +14,9 @@ app.py: The main application file that initializes and runs the chatbot.
 
 src/: Contains source code and modules supporting the chatbot's functionality.
 
-AINEWS/: A directory dedicated to AI news processing and management.
-
-.gitignore: Specifies files and directories to be ignored by Git.
-
 requirements.txt: Lists the Python dependencies required to run the project.
 
-.vscode/: Contains configuration files for Visual Studio Code.
+
 
 **📦 Requirements**
 
